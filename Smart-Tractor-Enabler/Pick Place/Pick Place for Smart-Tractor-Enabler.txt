@@ -1,0 +1,33 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R8         Res_SMD_0805      2084.173mil    256.772mil   2114.173mil    201.772mil   2084.173mil    288.268mil  T         90.00 2k2            
+R7         Res_SMD_0805      1994.213mil     226.89mil   2049.213mil     256.89mil   1962.716mil     226.89mil  T        180.00 1k2            
+P2         DC-DC_LM2579_module    984.841mil   1676.025mil   1842.518mil   2090.553mil   1734.841mil   1361.025mil  T        180.00 DC-DC          
+C6         Cap_SMD_4x5.3     1357.606mil    959.211mil   1357.606mil    875.211mil   1357.606mil    875.211mil  T         90.00 10uF           
+R6         Res_SMD_0805      1925.079mil   1328.228mil   1870.079mil   1298.228mil   1956.575mil   1328.228mil  T        360.00 10k            
+R5         Res_SMD_0805      2047.126mil    339.055mil   1992.126mil    309.055mil   2078.622mil    339.055mil  T        360.00 2k2            
+R4         Res_SMD_0805      1939.488mil    371.929mil   1969.488mil    316.929mil   1939.488mil    403.425mil  T         90.00 1k2            
+R3         Res_SMD_0805      1864.646mil    468.622mil   1834.646mil    523.622mil   1864.646mil    437.126mil  T        270.00 4k7            
+R2         Res_SMD_0805      1593.976mil    962.714mil   1563.976mil   1017.714mil   1593.976mil    931.218mil  T        270.00 1k             
+R1         Res_SMD_0805       402.047mil   2160.551mil    372.047mil   2215.551mil    402.047mil   2129.055mil  T        270.00 1k             
+D3         OF-SMD2012R       1550.157mil    1058.58mil   1615.158mil    1088.58mil   1587.559mil    1058.58mil  T        180.00 OF-SMD2012R    
+D2         OF-SMD2012R        402.087mil   2322.874mil    432.087mil   2257.874mil    402.087mil   2285.472mil  T         90.00 OF-SMD2012R    
+C10        OF-SMD2012R       2249.441mil   1645.771mil   2184.441mil   1615.771mil    2212.04mil   1645.771mil  T        360.00 100n           
+C9         OF-SMD2012R       2136.304mil   1012.203mil   2071.304mil    982.203mil   2098.903mil   1012.203mil  T        360.00 100n           
+C8         OF-SMD2012R       2202.065mil   1567.282mil   2137.065mil   1537.282mil   2164.663mil   1567.282mil  T        360.00 100n           
+C7         OF-SMD2012R       1956.181mil   1461.575mil   1926.181mil   1526.575mil   1956.181mil   1498.977mil  T        270.00 100n           
+C5         OF-SMD2012R       1501.606mil    945.494mil   1471.606mil   1010.494mil   1501.606mil    982.895mil  T        270.00 100n           
+C12        OF-SMD2012R       2329.834mil    724.912mil   2264.834mil    694.912mil   2292.433mil    724.912mil  T        360.00 22p            
+C11        OF-SMD2012R       2099.614mil    723.373mil   2164.614mil    753.373mil   2137.016mil    723.373mil  T        180.00 22p            
+P1         header_1X6        2460.513mil       1737mil   2460.513mil       1487mil   2460.513mil       1487mil  T         90.00 PROGRAMMING    
+IC2        DPAK               941.106mil   1014.387mil   1204.606mil   1127.494mil    798.606mil   1103.281mil  T        180.00 MC7805BDTG     
+F1         Fuse_SMD_1812     1366.953mil       1915mil       1264mil       1915mil       1264mil       1915mil  T        360.00 Fuse 1.5A      
+D1         DSO-C2/X3.3       1469.874mil       1683mil       1470mil       1683mil   1469.874mil   1771.583mil  T         90.00 SK24           
+C4         Cap_SMD_8x10       526.606mil   1033.667mil    526.606mil   1169.494mil    526.606mil   1169.494mil  T        270.00 470uF          
+Y1         SMD_HC49SM        2269.547mil     870.99mil   2474.547mil     960.99mil   2454.547mil     870.99mil  T        180.00 16MHz          
+U3         CTB1000/2         1909.836mil   2292.985mil   2235.236mil   2125.985mil   2109.836mil   2292.985mil  T         90.00 CTB1000/3      
+U2         atemag8A-AU       2205.816mil   1288.926mil   2400.816mil   1093.926mil    2095.58mil    1125.54mil  T         90.00 ATmega8A-AU    
+U1         CTB1000/2         1363.183mil    2285.11mil   1588.583mil    2118.11mil   1463.183mil    2285.11mil  T         90.00 CTB1000/2      
+USB-POWER  USB,_2.0_TYPE_A,_PLUG,_CABLE    811.661mil    2249.04mil        553mil   2707.111mil    949.457mil   2195.694mil  T        270.00 USB Type A RA TH
+BT1        Bluetooth_HC-06   1714.213mil    487.242mil   1799.213mil    172.242mil   1714.213mil    337.242mil  T         90.00 Bluetooth HC-06
+

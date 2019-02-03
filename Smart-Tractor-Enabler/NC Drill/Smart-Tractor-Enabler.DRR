@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Smart-Tractor-Enabler.PcbDoc   03/02/2019  13:14:39
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Smart-Tractor-Enabler.TXT
+EIA File   : Smart-Tractor-Enabler.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             16        PTH        5.89inch (149.49mm)
+T2      35mil (0.889mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T3      35mil (0.9mm)                                             Round             14        PTH        4.21inch (106.91mm)
+T4      39mil (1mm)                                               Round             2         PTH        0.08inch (2.00mm)
+T5      55mil (1.397mm)                                           Round             2         PTH        0.28inch (7.00mm)
+T6      59mil (1.5mm)                                             Round             5         PTH        0.85inch (21.51mm)
+T7      91mil (2.3mm)                                             Round             2         PTH        0.52inch (13.14mm)
+T8      100mil (2.54mm)                                           Round             4         PTH        1.66inch (42.25mm)
+T9      165mil (4.2mm)                                            Round             2         PTH        2.94inch (74.77mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              51
+
+Total Processing Time (hh:mm:ss) : 00:00:00
