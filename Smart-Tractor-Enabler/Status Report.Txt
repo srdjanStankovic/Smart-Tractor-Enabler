@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Smart-Tractor-Enabler.PrjPcb]
+   Generated File[Bill of Materials-Smart-Tractor-Enabler.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:14:40 On 03/02/2019
